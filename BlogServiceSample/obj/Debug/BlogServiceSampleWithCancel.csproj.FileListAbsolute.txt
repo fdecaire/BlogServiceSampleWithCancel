@@ -1,0 +1,10 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\bin\Debug\BlogServiceSample.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\bin\Debug\BlogServiceSample.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\bin\Debug\BlogServiceSample.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\bin\Debug\BlogServiceSampleCore.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\bin\Debug\BlogServiceSampleCore.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\obj\Debug\BlogServiceSampleWithCancel.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\obj\Debug\BlogServiceSample.ProjectInstaller.resources
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\obj\Debug\BlogServiceSampleWithCancel.csproj.GenerateResource.Cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\obj\Debug\BlogServiceSample.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSample\obj\Debug\BlogServiceSample.pdb

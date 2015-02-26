@@ -1,0 +1,10 @@
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleCore\bin\Debug\BlogServiceSampleCore.dll
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleCore\bin\Debug\BlogServiceSampleCore.pdb
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleCore\obj\Debug\BlogServiceSampleCore.dll
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleCore\obj\Debug\BlogServiceSampleCore.pdb
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleCore\obj\Debug\BlogServiceSampleCore.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleCore\bin\Debug\BlogServiceSampleCore.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleCore\bin\Debug\BlogServiceSampleCore.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleCore\obj\Debug\BlogServiceSampleCore.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleCore\obj\Debug\BlogServiceSampleCore.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleCore\obj\Debug\BlogServiceSampleCore.pdb

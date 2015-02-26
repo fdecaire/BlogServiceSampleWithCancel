@@ -1,0 +1,10 @@
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe.config
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.pdb
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\obj\Debug\BlogServiceSample.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\obj\Debug\BlogServiceSample.ProjectInstaller.resources
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\obj\Debug\BlogServiceSample.csproj.GenerateResource.Cache
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\obj\Debug\BlogServiceSample.exe
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\obj\Debug\BlogServiceSample.pdb
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSampleCore.dll
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSampleCore.pdb

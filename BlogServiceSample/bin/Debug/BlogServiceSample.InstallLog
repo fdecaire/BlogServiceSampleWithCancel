@@ -1,0 +1,30 @@
+﻿Installing assembly 'C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe
+   install = 
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe
+   install = 
+Installing assembly 'C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe
+   install = 
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.InstallLog
+   assemblypath = C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSample\BlogServiceSample\bin\Debug\BlogServiceSample.exe
+   install = 
+Restoring event log to previous state for source MyService.

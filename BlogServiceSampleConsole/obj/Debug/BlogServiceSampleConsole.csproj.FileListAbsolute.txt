@@ -1,0 +1,16 @@
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleConsole.exe.config
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\obj\Debug\BlogServiceSampleConsole.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleConsole.exe
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleConsole.pdb
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleCore.dll
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleCore.pdb
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\obj\Debug\BlogServiceSampleConsole.exe
+c:\users\frank\documents\visual studio 2012\Projects\BlogServiceSample\BlogServiceSampleConsole\obj\Debug\BlogServiceSampleConsole.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleConsole.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\obj\Debug\BlogServiceSampleConsole.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\obj\Debug\BlogServiceSampleConsole.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleConsole.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleConsole.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleCore.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\bin\Debug\BlogServiceSampleCore.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BlogServiceSampleWithCancel\BlogServiceSampleConsole\obj\Debug\BlogServiceSampleConsole.csprojResolveAssemblyReference.cache
