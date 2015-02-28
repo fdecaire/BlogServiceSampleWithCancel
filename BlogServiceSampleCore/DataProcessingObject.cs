@@ -16,20 +16,25 @@ namespace BlogServiceSampleCore
 		public void PerformProcess()
 		{
 			// do something here
-			using (StreamWriter writer = new StreamWriter("c:\\TestService.txt", true))
+			using (var dataObject = new CreateTempFile())
 			{
-				writer.WriteLine("Service is running " + DateTime.Now.ToString("H:mm:ss"));
-			}
-
-			for (int i = 0; i < 5000; i++)
-			{
-				// check for cancel signal
-				if (token.IsCancellationRequested)
+				using (StreamWriter writer = new StreamWriter(dataObject.TempFile, true))
 				{
-					return;
-				}
+					for (int i = 0; i < 5000; i++)
+					{
+						writer.WriteLine("Some test data");
 
-				Thread.Sleep(1000);
+						// check for cancel signal
+						if (token.IsCancellationRequested)
+						{
+							return;
+						}
+
+						// this is not necessary (only for this demonstration 
+						// to force this process to take a long time).
+						Thread.Sleep(1000);
+					}
+				}
 			}
 		}
 	}

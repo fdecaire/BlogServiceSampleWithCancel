@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataProcessingObject.cs" />
+    <Compile Include="ReadDataObject.cs" />
     <Compile Include="StartingClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

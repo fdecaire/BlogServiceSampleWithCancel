@@ -12,10 +12,6 @@ namespace BlogServiceSampleCore
             get { return _instance ?? (_instance = new StartingClass()); }
         }
 
-        private StartingClass()
-        {
-        }
-
         public bool Stopped { get; private set; }
 
         public void Start()
@@ -25,7 +21,7 @@ namespace BlogServiceSampleCore
 				CancellationToken token = (CancellationToken)action;
 				while (!token.IsCancellationRequested)
                 {
-					DataProcessingObject dataProcessingObject = new DataProcessingObject(action);
+					var dataProcessingObject = new DataProcessingObject(action);
 					dataProcessingObject.PerformProcess();
 
 					if (!token.IsCancellationRequested)
@@ -36,7 +32,7 @@ namespace BlogServiceSampleCore
 
                 Stopped = true;
 
-			}), cts.Token);//, TaskCreationOptions.LongRunning
+			}), cts.Token);
         }
 
 
